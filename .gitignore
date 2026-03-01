@@ -1,0 +1,14 @@
+# Raw NHANES source files — download from CDC (see README)
+data/*.xpt
+data/*.XPT
+
+# macOS
+.DS_Store
+
+# Planning docs
+Portfolio2-NHANES-Plan.md
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
